@@ -33,6 +33,7 @@ export default function Home() {
           {/* testo + CTA */}
           <div className="animate-fade-up flex flex-col items-start gap-5">
             <span className="eyebrow">Connection Radar</span>
+            <p className="font-display text-[28px] font-extrabold text-ok md:text-[36px]">niccolò</p>
             <h1 className="font-display text-[40px] font-extrabold leading-[1.05] tracking-[-0.02em] text-text-hi md:text-[60px]">
               È il momento giusto per <span className="text-brand drop-shadow-[0_0_18px_rgba(255,200,31,0.5)]">giocare?</span>
             </h1>
